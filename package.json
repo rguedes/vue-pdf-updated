@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-updated",
-  "version": "4.2.1",
+  "version": "4.2.2",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
@@ -24,7 +24,7 @@
     "loader-utils": "^1.4.0",
     "raw-loader": "^4.0.1",
     "worker-loader": "^2.0.0",
-    "pdfjs-dist": "^2.5.207 <2.10.377",
+    "pdfjs-dist-es5": "^2.13.216",
     "vue-resize-sensor": "^2.0.0"
   },
   "peerDependencies": {}
